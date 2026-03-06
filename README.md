@@ -2,7 +2,7 @@
 
 A browser-based analytics dashboard that models out-of-stock events, maps product substitution behavior, simulates margin impact, and predicts future stockout risk with intelligent replacement recommendations.
 
-**[Live Demo →](https://YOUR_USERNAME.github.io/subintel-dashboard/)**
+**[Live Demo →](https://sumedhsavla.github.io/subintel-dashboard/)**
 
 ![Dashboard Preview](preview.png)
 
@@ -116,7 +116,7 @@ Sample dataset derived from the [Kaggle Store Item Demand Forecasting Challenge]
 
 ## Getting Started
 
-1. **Open the dashboard:** [Live Demo](https://YOUR_USERNAME.github.io/subintel-dashboard/) or download `index.html` and open in any browser
+1. **Open the dashboard:** [Live Demo](https://sumedhsavla.github.io/subintel-dashboard/) or download `index.html` and open in any browser
 2. **Explore sample data:** The dashboard loads with built-in sample data
 3. **Upload your own data:** Click the "Data Upload" tab and drag in your CSV
 4. **Simulate scenarios:** Use the capture rate slider on the Margin Simulator tab
